@@ -3,7 +3,7 @@
 ### Olá! eu sou o Bruno, seja muito bem-vindo(a). 👋
 
 - 💻 Desenvolvedora Fullstack Jr
-- Experiêncie em PHP/Laravel ReactJS 
+- Experiência em PHP/Laravel ReactJS 
 - 📫 Contate-me no e-mail: brunocarneirosilva7@gmail.com
 - 😄 Pronouns: ele/dele
 
