@@ -2,10 +2,10 @@
 
 ### Olá! eu sou o Bruno, seja muito bem-vindo(a). 👋
 
-- 💻 Desenvolvedora Fullstack Jr
-- Experiência em PHP/Laravel ReactJS 
-- 📫 Contate-me no e-mail: brunocarneirosilva7@gmail.com
-- 😄 Pronouns: ele/dele
+- 💻 Fullstack Developer
+- Skilled in PHP/Laravel ReactJS 
+- 📫 Get in touch by e-mail: brunocarneirosilva7@gmail.com
+- 😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/bruno-carneiro-da-silva">
