@@ -1,6 +1,6 @@
 # Bruno carneiro da silva
 
-### Olá! eu sou a Rayane, seja muito bem-vindo(a). 👋
+### Olá! eu sou o Bruno, seja muito bem-vindo(a). 👋
 
 - 💻 Desenvolvedora Fullstack Jr
 - 🅰️ Estou estudando Typescript/React
@@ -8,9 +8,9 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <a href="https://github.com/rayane-araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayane-araujo&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-araujo&layout=compact&langs_count=6&theme=radical"/>
+  <a href="https://github.com/bruno-carneiro-da-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-carneiro-da-silva&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-carneiro-da-silva&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
   
