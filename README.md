@@ -2,8 +2,8 @@
 
 ### Olá! eu sou o Bruno, seja muito bem-vindo(a). 👋
 
-- 💻 Fullstack Developer
-- Skilled in PHP/Laravel ReactJS 
+- 💻 Developer
+- Skilled in (PHP,Laravel,ReactJS) 
 - 📫 Get in touch by e-mail: brunocarneirosilva7@gmail.com
 - 😄 Pronouns: he/him
 
@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-carneiro-da-silva&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+- 💻 Based skills 
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
