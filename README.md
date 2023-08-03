@@ -5,13 +5,12 @@
 <a href="https://t.me/onurbavlis" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/> </a>
 <a href="https://www.linkedin.com/in/bruno-da-silva-041063174/" target:"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target:"_blank"></a> 
 </p>
-<p align="center">
- Hello! I'm Bruno, Welcome to my github profile. 👋
-
-- 💻 Developer
-- 📫 Get in touch by e-mail: brunocarneirosilva7@gmail.com
-- 😄 Pronouns: he/him
-</p>
+<div align="center">
+<h2 align="center">Hello there, welcome to my GitHub!</h2>
+<div align="center">
+<p>💻 Full-Stack Developer</p>
+<p>🌎 From Brazil</p>
+</div>
 <div>
   <a href="https://github.com/bruno-carneiro-da-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-carneiro-da-silva&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
