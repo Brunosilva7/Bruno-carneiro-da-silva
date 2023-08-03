@@ -3,7 +3,7 @@
 <p align="center">
 <a href="mailto:brunocarneirosilva7@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> </a>
 <a href="https://t.me/onurbavlis" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/> </a>
-<a href="https://www.linkedin.com/in/bruno-da-silva-041063174/" target:"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target:"_blank"></a> 
+<a href="https://www.linkedin.com/in/bruno-da-silva-041063174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <div align="center">
 <h2 align="center">Hello there, welcome to my GitHub!</h2>
@@ -49,7 +49,7 @@
 
 <h3 align="center">DevOps</h3>
 <p align="center">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?short_path=bbeaed2" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?short_path=bbeaed2" alt="aws" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Frameworks</h3>
