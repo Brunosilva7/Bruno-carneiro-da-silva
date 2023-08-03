@@ -55,6 +55,8 @@
 <h3 align="center">Frameworks</h3>
 <p align="center">
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg?short_path=2a3345d" alt="laravel" width="40" height="40"/> </a>
+  
 </p>
   
 <h3 align="center">Operational Systems</h3>
