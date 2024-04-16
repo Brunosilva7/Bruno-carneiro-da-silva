@@ -8,7 +8,7 @@
 <div align="center">
 <h2 align="center">Hello there, welcome to my GitHub!</h2>
 <div align="center">
-<p>💻 Front-end Developer</p>
+<p>💻 Full stack Developer</p>
 <p>🌎 From Brazil</p>
 </div>
 <div>
