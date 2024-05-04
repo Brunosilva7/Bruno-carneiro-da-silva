@@ -70,6 +70,7 @@
 <h3 align="center">Other</h3>
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://wordpress.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
   
 
