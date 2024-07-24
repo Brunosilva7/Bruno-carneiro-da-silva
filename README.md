@@ -1,9 +1,7 @@
 <h1 align="center">Bruno carneiro da silva</h1>
 
 <p align="center">
-<a href="mailto:brunocarneirosilva7@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> </a>
 <a href="https://t.me/onurbavlis" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/> </a>
-<a href="https://www.linkedin.com/in/bruno-da-silva-041063174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <div align="center">
 <h2 align="center">Hello there, welcome to my GitHub!</h2>
