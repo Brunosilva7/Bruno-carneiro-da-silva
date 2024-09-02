@@ -66,6 +66,7 @@
 <p align="center">
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://www.apple.com/br/macos/sonoma/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.sv" alt="macos" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Other</h3>
