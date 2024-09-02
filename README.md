@@ -57,7 +57,7 @@
 <h3 align="center">Frameworks</h3>
 <p align="center">
 <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg?short_path=2a3345d" alt="symfony" width="40" height="40"/>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/tree/master/icons/laravel" alt="laravel" width="40" height="40"/>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react-native" width="40" height="40"/> </a>
   
 </p>
