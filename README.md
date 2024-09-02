@@ -24,7 +24,7 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 </p>
 
 <h3 align="center">Frontend Development</h3>
@@ -56,7 +56,8 @@
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg?short_path=2a3345d" alt="symfony" width="40" height="40"/> 
+<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg?short_path=2a3345d" alt="symfony" width="40" height="40"/>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/tree/master/icons/laravel" alt="laravel" width="40" height="40"/>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react-native" width="40" height="40"/> </a>
   
 </p>
