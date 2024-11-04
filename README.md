@@ -11,8 +11,8 @@
 </div>
 <div>
   <a href="https://github.com/bruno-carneiro-da-silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-carneiro-da-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-carneiro-da-silva&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosilva7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosilva7&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
   </a>
 </div>
