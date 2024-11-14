@@ -6,7 +6,7 @@
 <div align="center">
 <h2 align="center">Hello there, welcome to my GitHub!</h2>
 <div align="center">
-<p>💻 Full stack Developer</p>
+<p>💻 Full cycle Developer</p>
 <p>🌎 From Brazil</p>
 </div>
 <div>
